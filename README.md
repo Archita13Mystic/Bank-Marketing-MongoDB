@@ -98,6 +98,4 @@ python test_saved_model.py
 ## 10. Conclusion
 
 The project combines MongoDB data management and analysis with a machine learning pipeline. It stores customer data, demonstrates database features, evaluates subscription predictions, and saves prediction results in MongoDB.
-#� �B�a�n�k�-�M�a�r�k�e�t�i�n�g�-�M�o�n�g�o�D�B�
-�
-�
+
